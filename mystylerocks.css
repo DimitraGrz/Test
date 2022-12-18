@@ -1,0 +1,38 @@
+html, body{
+    height: 100%;
+    
+    background: #ffcc00;
+    font-family: cursive;
+}
+
+h1 {text-align: center;}
+ 
+button {
+	background-color: #cc3399;
+	color: white;
+	padding: 20px 40px;
+    margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.8;
+}
+
+button:hover {
+  opacity:1;
+}
+
+.btn {
+	background-color: #006666;
+	color: white;
+	padding: 10px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.8;
+	align-items: flex-end;
+}
+
+
+
